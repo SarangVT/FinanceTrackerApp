@@ -36,17 +36,17 @@ Tip, for understanding the code, start with index.js in both folders, frontend a
 the code is modular, which causes slight inconvenience at first but is good for later versions.<br/>
 
 Some Snapshots:
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;"><iframe src="https://drive.google.com/file/d/10zRP35fx25ePW5YPmYQMJNcawq58OE1C/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+![Screenshot 2025-02-17 144521](https://github.com/user-attachments/assets/338ccdd1-d9de-42a1-be9b-09abb73ef84d)
 <br/>
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;"><iframe src="https://drive.google.com/file/d/1-ZehJl95TCYMsWj0epf1PsYpuQT_VrPu/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+![Screenshot 2025-02-17 144545](https://github.com/user-attachments/assets/1a55b133-2a48-425b-804a-e3a95fde289d)
 <br/>
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;"><iframe src="https://drive.google.com/file/d/1I5Jytrl5oFG75iPxvvILUB0P7BFjHlrH/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+![Screenshot 2025-02-17 144934](https://github.com/user-attachments/assets/66af266a-15d1-4d18-a01d-9e49943927da)
 <br/>
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;"><iframe src="https://drive.google.com/file/d/1EIrf211fsRrDvibtaiZWXB3wyj2g3KbC/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+![Screenshot 2025-02-17 144956](https://github.com/user-attachments/assets/95838aca-4207-419f-9832-7ff559a3170b)
 <br/>
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 75%;"><iframe src="https://drive.google.com/file/d/14nvxsi65C_XrqyNxBoCcFePw4TQ3l96E/preview" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
+![Screenshot 2025-02-17 145008](https://github.com/user-attachments/assets/22a7af57-65fb-4302-9d5b-cb82174d6286)
 <br/>
 
-Hope, that you enjoyed the code and site both, anybody wishing to collaborate after 1st March 2025 is surely welcome.<br/>
+Hope that you enjoyed the code and site both, anybody wishing to collaborate after 1st March 2025 is surely welcome.<br/>
 Sarang Thakare<br/>
 240001065
