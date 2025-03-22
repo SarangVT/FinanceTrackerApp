@@ -1,5 +1,4 @@
 This is a Finance Tracker Application.<br/>
-Task No: 6<br/>
 <br/>
 Tech Stack Used:<br/>
 1. React JS and its dependencies, for more details check the package.json in frontend folder.<br/>
