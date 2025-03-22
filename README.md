@@ -1,4 +1,4 @@
-This is a Finance Tracker Application built primarily for the purpose of Programming Club Inductions, Software Division.<br/>
+This is a Finance Tracker Application.<br/>
 Task No: 6<br/>
 <br/>
 Tech Stack Used:<br/>
